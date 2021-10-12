@@ -35,7 +35,7 @@ MarkupSafe==1.1.1
 mysqlclient==1.4.4
 numpy==1.17.3
 oauth2client==3.0.0
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 pathlib==1.0.1
 Pillow==5.4.1
 protobuf==3.10.0
