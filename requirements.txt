@@ -43,7 +43,7 @@ pyasn1==0.4.7
 pyasn1-modules==0.2.7
 pycryptodome==3.4.3
 pydub==0.23.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 Pyrebase==3.0.27
 python-dateutil==2.8.0
